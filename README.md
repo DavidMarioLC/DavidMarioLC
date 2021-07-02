@@ -7,11 +7,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-</p>
 
-  - 🔭 I’m currently working on **Me**
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+
+ - 🔭 I’m currently working on **Me**
 
 - ⚡ I’m currently studying Frontend in  [LeonidasEsteban.com](https://leonidasesteban.com/)
 
@@ -20,6 +19,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/DavidMarioLC](https://github.com/DavidMarioLC) -->
 
 - 📫 How to reach me **davidmariolc.dev@gmail.com**
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
