@@ -1,14 +1,13 @@
-
-  
 <h1 align="center">
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
-
 <p align="center">
   <img
      src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things"
      >
 </p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+</p>
 
   
 - 🔭 I’m currently working on **Me**
