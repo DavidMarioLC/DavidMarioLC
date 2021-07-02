@@ -8,7 +8,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=""/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 
  - 🔭 I’m currently working on **Me**
 
@@ -25,7 +25,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  
 <a href="https://codepen.io/davidmariolc" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="davidmariolc" height="30" width="40" />
   </a>
@@ -34,16 +36,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   </a>
 <a href="https://discord.gg/DavidMarioLC" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DavidMarioLC" height="30" width="40" />
-
-
-  
-
-  
-  </a>
+ </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -59,13 +58,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+  
 </p>
 
 
   
 <h3 align="center">📊 Github stats</h3>
 
-<br/>
+<!-- <br/> -->
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="450px"/>
