@@ -1,22 +1,23 @@
 <h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
-<p align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David
+<p>
   <img
+       align="center"
      src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things"
      >
 </p>
+</h1>
+
 
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 
- - 🔭 I’m currently working on **Me**
+- 🔭 I’m currently working on **Me**
 
 - ⚡ I’m currently studying Frontend in  [LeonidasEsteban.com](https://leonidasesteban.com/)
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/DavidMarioLC](https://github.com/DavidMarioLC) -->
 
 - 📫 How to reach me **davidmariolc.dev@gmail.com**
 
@@ -68,12 +69,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!-- <br/> -->
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="450px"/>
-   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
 </p>
-
-<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidMarioLC&bg_color=0d1117&color=ffffff&line=b706ab&point=ffffff&area=true&hide_border=true" alt="davidmariolc"  width="700px"/> -->
- 
-  
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidMarioLC&bg_color=0d1117&color=ffffff&line=b706ab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
