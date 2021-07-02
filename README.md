@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David &#127477;&#127466;
 <p>
   <img
        align="center"
