@@ -22,9 +22,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 📫 How to reach me **davidmariolc.dev@gmail.com**
 
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -63,7 +60,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 
-  
+<hr> 
 <h3 align="center">📊 Github stats</h3>
 
 <!-- <br/> -->
