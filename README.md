@@ -66,9 +66,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <h3 align="center">📊 Github stats</h3>
 
 <!-- <br/> -->
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
-</p>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmariolc&layout=compact&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="157px"/>
+<a align='center'>
   
+</a>
+
+
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidMarioLC&bg_color=0d1117&color=ffffff&line=b706ab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
