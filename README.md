@@ -17,7 +17,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - ⚡ I’m currently studying Frontend in  [LeonidasEsteban.com](https://leonidasesteban.com/)
 
-- 🌱 I’m currently learning **TypeScript, Testing, Nextjs and Firebase**
+- 🌱 I’m currently learning **TypeScript, Testing, Nextjs and Firebase.**
 
 - 📫 How to reach me **davidmariolc.dev@gmail.com**
 
