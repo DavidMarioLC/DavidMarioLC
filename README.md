@@ -34,11 +34,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
- 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.4eceae4f.svg&w=48&q=75" alt="html" width="40" height="40"/> 
-  </a>
-
+<img src="https://svgl.app/library/html5.svg" alt="html" width="40" height="40"/> 
+<img src="https://svgl.app/library/css.svg" alt="css" width="40" height="40"/> 
+<img src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://svgl.app/library/typescript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://svgl.app/library/git.svg" alt="javascript" width="40" height="40"/>    
+<img src="https://svgl.app/library/tailwindcss.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://svgl.app/library/react.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="javascript" width="40" height="40"/>   
+<img src="https://svgl.app/library/strapi.svg" alt="javascript" width="40" height="40"/>       
+<img src="https://svgl.app/library/figma.svg" alt="javascript" width="40" height="40"/>    
 </p>
 
 
