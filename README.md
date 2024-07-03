@@ -33,45 +33,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
+ 
+ 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.4eceae4f.svg&w=48&q=75" alt="html" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcss.1db180c3.svg&w=48&q=75" alt="css" width="40" height="40"/> 
-  </a>
-   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjavascript.e00c672d.svg&w=48&q=75" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsass.99374969.svg&w=48&q=75" alt="sass" width="40" height="40"/>
-  </a> 
- 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffigma.dfc56bcd.svg&w=32&q=75" alt="figma" width="40" height="40"/> 
-  </a>
- <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freact.539f3c4f.svg&w=48&q=75" alt="react" width="40" height="40"/> 
- </a>
-   <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fredux.3c537963.svg&w=48&q=75" alt="redux" width="40" height="40"/> 
- </a>
-   </a>
-   <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.066f40e5.svg&w=48&q=75" alt="next" width="40" height="40"/> 
- </a>
-    <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftypescript.d143316a.svg&w=48&q=75" alt="typescript" width="40" height="40"/> 
- </a>
-    <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjest.6aea5032.svg&w=48&q=75" alt="jest" width="40" height="40"/> 
- </a>
- <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffirebase.91f53171.svg&w=48&q=75" alt="firebase" width="40" height="40"/> 
- </a>
-  <a href="https://sass-lang.com" target="_blank">
-   <img src="https://portafolio-davidmariolc.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftesting.5e1bb858.svg&w=48&q=75" alt="testing" width="40" height="40"/> 
- </a>
+
 </p>
 
 
