@@ -11,7 +11,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="350" height="300" style="object-fit: cover;"/>
 
 - 🔭 I’m currently working on **Me**
 
