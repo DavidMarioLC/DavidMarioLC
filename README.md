@@ -22,13 +22,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 <h3 align="left">Connect with me:</h3>
-
-<a href="https://twitter.com/davidmariolc" target="_blank">
-  <img align="center" src="https://svgl.app/library/twitter.svg" alt="davidmariolc" height="40" width="40" />
-</a>
 <a href="https://www.linkedin.com/in/davidmariolc/" target="_blank">
   <img align="center" src="https://svgl.app/library/linkedin.svg" alt="davidmariolc" height="40" width="40" />
 </a>
+<a href="https://twitter.com/davidmariolc" target="_blank">
+  <img align="center" src="https://svgl.app/library/twitter.svg" alt="davidmariolc" height="40" width="40" />
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
