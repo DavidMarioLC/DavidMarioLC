@@ -56,9 +56,17 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img src="https://svgl.app/library/atlassian.svg" alt="atlassian" width="40" height="40"/> 
 <img src="https://svgl.app/library/slack.svg" alt="slack" width="40" height="40"/> 
 <img src="https://svgl.app/library/openai_dark.svg" alt="openai" width="40" height="40"/> 
-
 </p>
-
+<hr> 
+<h3 align="left">Community:</h3>
+<p align="left">
+<img src="https://svgl.app/library/gdsc.svg" alt="gdsc" width="76" height="40"/> 
+<img src="https://svgl.app/library/devto-dark.svg" alt="devto" width="40" height="40"/> 
+<img src="https://svgl.app/library/midudev.svg" alt="midudev" width="46" height="40"/>
+<img src="https://svgl.app/library/platzi.svg" alt="platzi" width="40" height="40"/>
+<img src="https://svgl.app/library/udemy_dark.svg" alt="udemy" width="107" height="40"/>
+<img src="https://svgl.app/library/webdev.svg" alt="webdev" width="134" height="40"/>
+</p>
 
 <hr> 
 <h3 >📊 Github stats</h3>
