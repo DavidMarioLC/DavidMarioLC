@@ -1,38 +1,21 @@
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David
-<p>
-  <img
-       align="center"
-     src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things"
-     >
-</p>
-</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="250" height="250" style="object-fit: cover;"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F710&background=FFFFFF00&random=true&width=435&lines=Front+End+Engineer+%F0%9F%9A%80;I+love+the+cats+%F0%9F%90%B1;Front+End+Architecture+%F0%9F%A4%93;Technical+Writing+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
 
 
+-   Building fast and accessible Frontends 🚀.
+-   Fan of Clean Code and Clean Architecture 👨🏻‍💻.
+-   Making the web better: Performance, SEO, a11y, i18n 🌐.
+-   Enthusiastic Technical Writer ✍️.
+-   Code, books, community, and cats... my perfect mix ❤️.
 
 
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="350" height="300" style="object-fit: cover;"/>
-
-- 🔭 I’m currently working on **Me**
-
--  ⚡ I’m currently learning all about **Front-End.**
-
-- 📫 How to reach me **davidmariolc.dev@gmail.com**
+<br/>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/davidmariolc/" target="_blank">
-  <img align="center" src="https://svgl.app/library/linkedin.svg" alt="davidmariolc" height="40" width="40" />
-</a>
-<a href="https://twitter.com/davidmariolc" target="_blank">
-  <img align="center" src="https://svgl.app/library/twitter.svg" alt="davidmariolc" height="40" width="40" />
-</a>
-
-
+<hr> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- 
 <img src="https://svgl.app/library/html5.svg" alt="html" width="40" height="40"/> 
 <img src="https://svgl.app/library/css.svg" alt="css" width="40" height="40"/> 
 <img src="https://svgl.app/library/javascript.svg" alt="javascript" width="40" height="40"/>
@@ -40,7 +23,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img src="https://svgl.app/library/git.svg" alt="git" width="40" height="40"/>    
 <img src="https://svgl.app/library/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> 
 <img src="https://svgl.app/library/threejs-dark.svg" alt="threejs" width="40" height="40"/>
-<img src="https://svgl.app/library/react.svg" alt="react" width="40" height="40"/> 
+<img src="https://svgl.app/library/react_dark.svg" alt="react" width="40" height="40"/> 
 <img src="https://svgl.app/library/vitejs.svg" alt="vitejs" width="40" height="40"/> 
 <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://svgl.app/library/storybook.svg" alt="storybook" width="40" height="40"/> 
@@ -69,7 +52,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <hr> 
 <h3 >📊 Github stats</h3>
-<!-- <br/> -->
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmariolc&layout=compact&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" />
 
