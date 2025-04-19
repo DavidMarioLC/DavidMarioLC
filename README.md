@@ -16,7 +16,7 @@
 
 
 
-## Languages and Tools:
+## Technologies and Tools
 <p align="left">
 <img src="https://svgl.app/library/html5.svg" alt="html" width="40" height="40"/> 
 <img src="https://svgl.app/library/css.svg" alt="css" width="40" height="40"/> 
@@ -43,7 +43,7 @@
 </p>
 
 
-## Community:
+## Community
 <p align="left">
 <img src="https://svgl.app/library/gdsc.svg" alt="gdsc" width="76" height="40"/> 
 <img src="https://svgl.app/library/devto-dark.svg" alt="devto" width="40" height="40"/> 
