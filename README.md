@@ -52,12 +52,3 @@
 <img src="https://svgl.app/library/udemy_dark.svg" alt="udemy" width="107" height="40"/>
 <img src="https://svgl.app/library/webdev.svg" alt="webdev" width="134" height="40"/>
 </p>
-
-
-## 📊 Github stats
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmariolc&layout=compact&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" />
-
-
-
-
