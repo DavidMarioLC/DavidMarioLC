@@ -15,8 +15,8 @@
 <br/>
 
 
-<hr> 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <p align="left">
 <img src="https://svgl.app/library/html5.svg" alt="html" width="40" height="40"/> 
 <img src="https://svgl.app/library/css.svg" alt="css" width="40" height="40"/> 
@@ -41,8 +41,9 @@
 <img src="https://svgl.app/library/slack.svg" alt="slack" width="40" height="40"/> 
 <img src="https://svgl.app/library/openai_dark.svg" alt="openai" width="40" height="40"/> 
 </p>
-<hr> 
-<h3 align="left">Community:</h3>
+
+
+## Community:
 <p align="left">
 <img src="https://svgl.app/library/gdsc.svg" alt="gdsc" width="76" height="40"/> 
 <img src="https://svgl.app/library/devto-dark.svg" alt="devto" width="40" height="40"/> 
@@ -52,8 +53,8 @@
 <img src="https://svgl.app/library/webdev.svg" alt="webdev" width="134" height="40"/>
 </p>
 
-<hr> 
-<h3 >📊 Github stats</h3>
+
+## 📊 Github stats
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=davidmariolc&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/>   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmariolc&layout=compact&theme=react&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" />
 
