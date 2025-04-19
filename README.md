@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="250" height="250" style="object-fit: cover;"/>
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6F710&background=FFFFFF00&random=true&width=435&lines=Front+End+Engineer+%F0%9F%9A%80;I+love+the+cats+%F0%9F%90%B1;Front+End+Architecture+%F0%9F%A4%93;Technical+Writing+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
 
 
