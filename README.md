@@ -37,9 +37,7 @@
 <img src="https://svgl.app/library/jest.svg" alt="jest" width="40" height="40"/>
 <img src="https://svgl.app/library/playwright.svg" alt="playwright" width="40" height="40"/> 
 <img src="https://svgl.app/library/vitest.svg" alt="vitest" width="40" height="40"/> 
-<img src="https://svgl.app/library/atlassian.svg" alt="atlassian" width="40" height="40"/> 
-<img src="https://svgl.app/library/slack.svg" alt="slack" width="40" height="40"/> 
-<img src="https://svgl.app/library/openai_dark.svg" alt="openai" width="40" height="40"/> 
+ 
 </p>
 
 
