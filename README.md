@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=+Building+fast+and+accessible+Frontends+%F0%9F%9A%80;Fan+of+Clean+Code+and+Clean+Architecture+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Making+the+web+better%3A+Performance%2C+SEO%2C+a11y%2C+i18n+%F0%9F%8C%90;Enthusiastic+Technical+Writer+%E2%9C%8D%EF%B8%8F;Code%2C+books%2C+community%2C+and+cats...+my+perfect+mix+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DE2F&repeat=false&width=300&lines=Front+End+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 -   Building fast and accessible Frontends 🚀.
 -   Fan of Clean Code and Clean Architecture 👨🏻‍💻.
