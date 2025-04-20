@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DE2F&repeat=false&width=300&lines=Front+End+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DE2F&repeat=false&width=435&lines=Front+End+Engineer+" alt="Typing SVG" /></a>
 
 -   Building fast and accessible Frontends 🚀.
 -   Fan of Clean Code and Clean Architecture 👨🏻‍💻.
