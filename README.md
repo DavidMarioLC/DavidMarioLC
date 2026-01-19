@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm David</h1>
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZmZmp3emljODluNDl2MGg4ZW5oYmNjd2tqcDRwbXNpbDcwZDRhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DE2F&repeat=false&width=435&lines=Frontend+Engineer" alt="Typing SVG" /></a>
 
 -   Building fast and accessible Frontends 🚀.
@@ -23,7 +23,7 @@
 <img src="https://svgl.app/library/typescript.svg" alt="typescript" width="40" height="40"/>
 <img src="https://svgl.app/library/git.svg" alt="git" width="40" height="40"/>    
 <img src="https://svgl.app/library/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> 
-<img src="https://svgl.app/library/vitejs.svg" alt="vitejs" width="40" height="40"/> 
+<img src="https://svgl.app/library/vite.svg" alt="vite" width="40" height="40"/> 
 <img src="https://svgl.app/library/react_dark.svg" alt="react" width="40" height="40"/> 
 <img src="https://svgl.app/library/vitest.svg" alt="vitest" width="40" height="40"/> 
 <img src="https://svgl.app/library/jest.svg" alt="jest" width="40" height="40"/>
