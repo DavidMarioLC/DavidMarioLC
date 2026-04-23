@@ -2,7 +2,7 @@
 
 Software Engineer from Ica, Perú.
 
-Organizer at [Google Developer Groups Ica (GDG)](https://gdg.community.dev/gdg-ica/).
+Organizer at [Google Developer Groups Ica](https://gdg.community.dev/gdg-ica/).
 
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZmZmp3emljODluNDl2MGg4ZW5oYmNjd2tqcDRwbXNpbDcwZDRhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="280" height="280" style="object-fit: cover;"/>
