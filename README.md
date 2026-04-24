@@ -14,7 +14,7 @@ Organizer at [Google Developer Groups Ica](https://gdg.community.dev/gdg-ica/).
 ### Core toolkit
 
 - **Frontend:** JavaScript, TypeScript, React, Angular, Next.js, React Native, CSS Modules, Tailwind CSS
-- **Backend & data:** Node.js, Express.js, GraphQL, PostgreSQL
+- **Backend & data:** Node.js, Express.js, GraphQL, PostgreSQL, Supabase
 - **Quality & delivery:** Playwright, Vitest, Jest, Storybook, CI/CD, Docker
 - **Cloud:** AWS, GCP, Cloudflare, Vercel, Railway
 
